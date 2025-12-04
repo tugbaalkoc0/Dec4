@@ -1,7 +1,7 @@
 import java.util.Calendar;
 import java.util.Date;
 
-public class TestClass {
+public class TestClassHomework {
     public static void main(String[] args){
         Date now = new Date();
 
